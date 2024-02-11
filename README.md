@@ -1,6 +1,10 @@
 # BuzzFeed
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.1.
+Esse projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli) version 17.1.1.
+
+É um clone do buzz feed
+
+Link para acesso: https://gabrielajs.github.io/buzz_feed/
 
 ## Development server
 
